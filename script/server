@@ -7,3 +7,6 @@ git submodule update --init
 
 # Run the Jekyll site locally
 bundle exec jekyll serve
+
+# This fixes bug A
+echo "Hello World!"
